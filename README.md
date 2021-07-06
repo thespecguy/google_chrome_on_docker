@@ -3,7 +3,7 @@
 ![google_chrome_docker](https://miro.medium.com/max/1400/1*Yqlku7qNl5GAVFq85aLfLQ.jpeg)
 
 ## Objective
-Launching GUI applications(Google Chrome in this case) on top of Docker container.
+Launch GUI applications(Google Chrome in this case) on top of Docker container.
 <br><br>
 
 ## Content
